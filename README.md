@@ -33,6 +33,10 @@ was draining the phone, so profiling cut CPU use from 173% to 125% of a core. [S
 Tap an NFC sticker to lock the apps that pull you in, and tap again to unlock them. Calls, Settings, and emergency apps
 always work, with no root or admin access. [See the code →](https://github.com/reidenjohnson/latch)
 
+<p>
+  <img src="https://raw.githubusercontent.com/reidenjohnson/latch/main/docs/screenshots/latch-welcome.png" width="230" alt="Latch welcome screen">
+</p>
+
 ## Tools I use
 
 Kotlin, Jetpack Compose, Python, TypeScript and JavaScript, Next.js, SQL, Claude Code and AI agents, Git and GitHub.
